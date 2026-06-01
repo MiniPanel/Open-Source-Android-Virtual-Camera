@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Virtual Camera</string>
+    <string name="btn_start_default">Start Virtual Camera (Default)</string>
+    <string name="btn_start_custom">Start with Custom Video</string>
+    <string name="btn_stop">Stop Virtual Camera</string>
+    <string name="notification_title">Virtual Camera Active</string>
+    <string name="notification_text">Streaming video to camera apps</string>
+</resources>
